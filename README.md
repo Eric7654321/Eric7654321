@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 GitHub 使用語言統計
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub帳號&layout=compact&langs_count=8&hide=html)
