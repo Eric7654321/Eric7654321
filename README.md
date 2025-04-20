@@ -1,8 +1,8 @@
 ## Hi there 👋 
-I am Dr. Kiwi, and...
+I am Dr. Kiwi, which is...
 
 - 🔭 A student right now
-- 🌱 Keep learning
+- 🌱 Keep curiousity
 - 🤔 Java = JavaScript
 <!--
 **Eric7654321/Eric7654321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
