@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I am Dr. Kiwi, which is...
+I am Lu, which is...
 
 - 🔭 A student right now
 - 🌱 Keep curiosity
