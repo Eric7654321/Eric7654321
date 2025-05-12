@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ## 📊 Statistic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric7654321&layout=compact&langs_count=8&hide=html&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric7654321&layout=compact&langs_count=8&hide=html&theme=dark)
 
 
